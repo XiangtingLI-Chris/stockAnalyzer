@@ -7,7 +7,7 @@ This project combines announcement scraping, text-based sentiment analysis, mult
 
 This project was originally built as a practical internal-style side project during my internship.  
 Because the development environment at that time was isolated from GitHub, the code history was not managed online during development.  
-This repository is a later整理 and public upload of the project for portfolio and learning purposes.
+This repository is a later organized and public upload of the project for portfolio and learning purposes.
 
 ## Project Goal
 
