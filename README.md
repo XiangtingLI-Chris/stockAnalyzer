@@ -168,26 +168,8 @@ and similarly for `Stage_03` and `Stage_04`.
 
 ## Notes
 
-- This project is intended for research, learning, and portfolio demonstration.
-- It is not financial advice.
-- Some modules and outputs reflect the exploratory nature of the original internship-side implementation.
-- The repository may still be improved with:
-  - a root-level dependency file
-  - a unified configuration interface
-  - better logging
-  - result screenshots
-  - cleaned ignored files such as IDE metadata
-
-## What I Learned
-
-Through this project, I practiced:
-
-- structuring a multi-stage data pipeline
-- combining text analysis with market data
-- using Pandas for data transformation
-- working with AkShare for A-share historical data retrieval
-- exporting analysis results for manual review
-- organizing a project around iterative analysis stages
+- This project is intended for research and learning.
+- It does not constitute investment advice or a production-grade trading system.
 
 ## Future Improvements
 
@@ -199,8 +181,3 @@ Possible next steps:
 - add better exception handling and logging
 - visualize recurring monthly patterns
 - add unit tests and sample datasets
-
-## Disclaimer
-
-This repository is for educational and portfolio purposes only.  
-It does not constitute investment advice or a production-grade trading system.
